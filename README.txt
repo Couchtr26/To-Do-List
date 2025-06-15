@@ -56,3 +56,5 @@ This project demonstrates DOM manipulation, event handling, array management, an
 Thomas (Grey Knight Software)
 
 ---
+
+Copyright (c) 2025 Couchtr26
